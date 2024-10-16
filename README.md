@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on embedded software development and autosar careee<br>👯 I’m looking to collaborate on common projects to enhance the knowledge i have<br>🤝 I’m looking for help with more accomplishments for that path
+🔭 I’m currently working on embedded software development and autosar career<br>👯 I’m looking to collaborate on common projects to enhance the knowledge i have<br>🤝 I’m looking for help with more accomplishments for that path
 
 
 ## 🌐 Socials:
