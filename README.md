@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on embedded software development and autosar career<br>👯 I’m looking to collaborate on common projects to enhance the knowledge i have<br>🤝 I’m looking for help with more accomplishments for that path
-
+Developing Mechatronics Engineer with a solid foundation in automation, robotics, and control systems, enhanced by growing expertise in embedded systems. I bring a keen analytical mind and a proactive, hands-on approach to problem-solving. Seeking opportunities to contribute technical skills in areas like microcontroller programming and intelligent system design. I'm dedicated to continuous learning and staying at the cutting edge of mechatronics and embedded technologies.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/amralim512/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amradel512/) 
